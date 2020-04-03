@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "conversandoenelaula-b9f77": {
+      "hosting": {
+        "ciclodevida": [
+          "conversandoenelaula-b9f77"
+        ]
+      }
+    }
+  }
+}
