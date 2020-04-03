@@ -23,6 +23,8 @@
     "@angular/platform-browser": "~9.1.0",
     "@angular/platform-browser-dynamic": "~9.1.0",
     "@angular/router": "~9.1.0",
+    "@angular/fire": "^6.0.0",
+    "@firebase/auth": "^0.14.1",
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "font-awesome": "^4.7.0",
