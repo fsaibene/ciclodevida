@@ -23,6 +23,8 @@
     "@angular/router": "~9.1.0",
     "@firebase/auth": "^0.14.1",
     "@ngtools/webpack": "^9.1.0",
+    "@angular/cli": "~9.1.0",
+    "@angular/compiler-cli": "~9.1.0",
     "bootstrap": "^4.4.1",
     "firebase": "^7.13.1",
     "font-awesome": "^4.7.0",
